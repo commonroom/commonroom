@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**commonroom/commonroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UX developer specializing in digital accessibility. 
 
-Here are some ideas to get you started:
+## Skills 🍳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Digital Accessibility 
+    - WCAG 
+    - 508 &amp; ADA 
+- JavaScript 
+    - Svelte &amp; SvelteKit 
+    - ES6 
+- CSS 
+    - SCSS / Sass 
+    - PostCSS 
+- HTML 
+    - Semantic HTML5
+    - WAI-ARIA 
+
+- 🔭 I’m working on 
+  - A11y documentation for designers and develoeprs 
+  - A Markdown editor to end all Markdown editors 
+  - Cooking my way through all the regions of India 🍛
+  
+## Interests 📚
+
+- The Future of the Browser
+- The Decentralized Web
+- Functional Programming 
+- Security, Networking, and How Stuff Works 
+
