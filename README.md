@@ -2,7 +2,7 @@
 
 I'm a UX developer specializing in digital accessibility. 
 
-## Skills 🍳
+## 🍳 Skills 
 
 - Digital Accessibility 
     - WCAG 
@@ -22,7 +22,7 @@ I'm a UX developer specializing in digital accessibility.
   - A Markdown editor to end all Markdown editors 
   - Cooking my way through all the regions of India 🍛
   
-## Interests 📚
+## 📚 Interests
 
 - The Future of the Browser
 - The Decentralized Web
