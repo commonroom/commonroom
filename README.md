@@ -18,9 +18,9 @@ I'm a UX developer specializing in digital accessibility.
     - WAI-ARIA 
 
 ## 🔭 I’m working on 
-  - A11y documentation for designers and develoeprs 
-  - A Markdown editor to end all Markdown editors 
-  - A realtime web3 multiplayer roguelike 
+  - A11y documentation for designers and develoeprs 📄
+  - A Markdown editor to end all Markdown editors 🚀
+  - A realtime web3 multiplayer roguelike 🔪
   - Cooking my way through all the regions of India 🍛
   
 ## 📚 Interests
