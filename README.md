@@ -19,7 +19,7 @@ I'm a UX developer specializing in digital accessibility.
 
 ## 🔭 I’m working on 
   - A11y documentation for designers and developers 📄
-  - A Markdown editor to end all Markdown editors 🚀
+  - CSS-agnostic Svelte UI library 🚀
   - A realtime web3 multiplayer roguelike 🔪
   - Cooking my way through all the regions of India 🍛
   
