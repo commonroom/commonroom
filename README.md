@@ -1,32 +1,14 @@
-# Hello!
+# Hello. I'm Nicolas. 
 
-I'm a UX developer specializing in digital accessibility. 
+I'm a UX developer & service designer specializing in digital accessibility.
 
-## 🍳 Skills 
+I currently work as a [senior accessibility experience designer](https://www.dromena.foo/) on the design system at U.S. Bank. I help designers, researchers, developers, testers, and other stakeholders maneuver regulatory landscapes and build accessible experiences.
 
-- Digital Accessibility 
-    - WCAG 
-    - 508 &amp; ADA 
-- JavaScript 
-    - Svelte &amp; SvelteKit 
-    - ES6 
-- CSS 
-    - SCSS / Sass 
-    - PostCSS 
-- HTML 
-    - Semantic HTML5
-    - WAI-ARIA 
+## A Few of My Favorite Things
 
-## 🔭 I’m working on 
-  - A11y documentation for designers and developers 📄
-  - CSS-agnostic Svelte UI library 🚀
-  - A realtime web3 multiplayer roguelike 🔪
-  - Cooking my way through all the regions of India 🍛
-  
-## 📚 Interests
-
-- The Future of the Browser 🦁
-- The Decentralized Web 🕸️
-- Functional Programming 𝛌
-- Rust 🦀
-
+*   🎩 Svelte & SvelteKit
+*   🦀 Rust
+*   ✨ Functional Programming
+*   🦁 Web Browsers
+*   🕸️ The Decentralized Web
+*   📍 Service Design
