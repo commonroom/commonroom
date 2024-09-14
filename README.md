@@ -15,5 +15,5 @@ I currently work as a [senior accessibility experience designer](https://www.dro
 
 ## Get in Touch
 
-- 🔗 dromena.foo
+- 🔗 [dromena.foo]([url](https://www.dromena.foo/))
 - 💌 <a href="mailto:hello@dromena.dev">hello@dromena.dev</a>
