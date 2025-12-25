@@ -12,8 +12,3 @@ I currently work as a [senior accessibility experience designer](https://www.dro
 *   🦁 Web Browsers
 *   🕸️ The Decentralized Web
 *   📍 Service Design
-
-## Get in Touch
-
-- 🔗 [dromena.foo](https://www.dromena.foo/)
-- 💌 <a href="mailto:hello@dromena.dev">hello@dromena.dev</a>
